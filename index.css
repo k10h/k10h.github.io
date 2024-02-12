@@ -1,0 +1,61 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+.banner {
+    background-color: lightseagreen;
+    color: white;
+    margin-top: 50 px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small-sam {
+    height: 100px;
+    width: 150px;
+    filter: drop-shadow(1px 1px 1px blue);
+}
+
+.sam-section {
+    padding: 20px 50px;
+}
+
+#sam {
+    color: blue;
+    font-size: 100px;
+}
+
+#media ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url('./Sam 1.jpg');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a.blue {
+    color: blue;
+}
